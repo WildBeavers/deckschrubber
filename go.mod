@@ -1,4 +1,4 @@
-module github.com/fraunhoferfokus/deckschrubber
+module github.com/WildBeavers/deckschrubber
 
 go 1.13
 
